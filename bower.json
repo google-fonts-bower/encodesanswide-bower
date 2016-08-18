@@ -1,0 +1,17 @@
+{
+    "name": "encodesanswide-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Impallari Type"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/encodesanswide-bower.git"
+    },
+    "description": "Encode Sans Wide font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
